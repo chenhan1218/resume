@@ -1,71 +1,64 @@
-Markdown Resumé
-===============
-
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
+## Resumé
 
 
-Work Experience
----------------
+<img src="photo.jpg" alt="photo" style="width: 150px;"/>
 
-*   **Word Processor** (Redmond, WA)
+Chen-Han Hsiao (Stanley) 蕭辰翰
 
-    Junior Resumé Maker, 2006 - 2007
+Email: <R97922120@ntu.edu.tw>
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+### Work Experience
 
-*   **\LaTeX\ + pdflatex**
+*   **Software Engineer**, Micro-Star International Co., Ltd (MSI),
+    Nov. 2010 - Sep. 2013
+    - Build software architecture for high-level vacuum robot. Made consumer vacuum robot being capable of localizing and navigating accurately in indoor environment. 
+    - Implement customized Robot software and Human-Robot Interface.
+    - Complete field tests and Improving product reliability.
 
-    Senior Resumé Maker, 2008 - 2010
+*   **Teaching assistant**, National Taiwan University
+    - CALCULUS (GENERAL MATHEMATICS), Fall 2008 & Spring 2009
+    - Introduction to Computer Programming, Fall 2009
+        - Excellent TA Award
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+### Project
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **TED Open Translation Project**. 2012-present
+    -  Translate about 20 video subtitles from English to Chinese. Completed translation: [http://www.ted.com/profiles/1352721/translations](http://www.ted.com/profiles/1352721/translations)
+*   **liveptt**: [http://liveptt.herokuapp.com](http://liveptt.herokuapp.com)
+    -  Mobile Web App for browsing PTT Bulletin Board System (Under Construction)
 
-    Web Resumé Intern, August 2010
+### Competition
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+*   Facebook Hacker Cup 2013: Rank 1336
+    - International programming competition hosted and administered by Facebook.
 
-*   **Markdown with Pandoc**
+### Publication
 
-    Resumé Architect, February 2011 - present
+*   **Chen-Han Hsiao** and Chieh-Chih Wang, Achieving undelayed initialization in monocular SLAM with generalized objects using velocity estimate-based classification, Robotics and Automation (ICRA), 2011 IEEE International Conference on , vol., no., pp.4060,4066, 9-13 May 2011.
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+### Education
 
+*   National Taiwan University, Taipei, Taiwan, 
+    * M. S., Computer Science and Information Engineering, Aug 2008 - July 2010
+*   National Taiwan University, Taipei, Taiwan
+    * B. S., Mathematics, Aug 2004 - July 2008
 
-Education
----------
+### Skills
+*   Design algorithms for Autonomous robot
+*   Develop software tools for robot and sensor applications
+*   Analysis product reliability.
+*   Programming tool: 
+    - C++, Eclipse + GNU Debugger, Matlab, Javascript, Python, Shell Script
+*   Software Services: Amazon EC2, Heroku
+*   Language:
+    * Chinese: Native
+    * English: Full professional proficiency, TOEIC 945
 
-*   **Github University** (World Wide Web)
+### Interests
 
-    B.S. in Submodules, May 2012
-
-
-Skills
-------
-
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
+*   Robotics, Machine Learning, Open Data, Open Source, Computer Security
 
 
+Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/resume.pdf)
+
+中文履歷: [http://swem.github.io/resume/resume-zh_tw.html](http://swem.github.io/resume/resume-zh_tw.html) [[PDF]](https://raw.github.com/swem/resume/master/resume-zh_tw.pdf)
