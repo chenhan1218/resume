@@ -24,8 +24,6 @@ Email: <R97922120@ntu.edu.tw>
 
 *   **TED Open Translation Project**. 2012-present
     -  Translate about 20 video subtitles from English to Chinese. Completed translation: [http://www.ted.com/profiles/1352721/translations](http://www.ted.com/profiles/1352721/translations)
-*   **liveptt**: [http://liveptt.herokuapp.com](http://liveptt.herokuapp.com)
-    -  Mobile Web App for browsing PTT Bulletin Board System (Under Construction)
 
 ### Competition
 

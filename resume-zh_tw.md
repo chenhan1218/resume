@@ -24,8 +24,6 @@ Email: <R97922120@ntu.edu.tw>
 
 *   **TED 開放翻譯計劃** 2012-至今
     -  協助將 20 場演講的英文字幕翻譯為中文字幕。完成列表: [http://www.ted.com/profiles/1352721/translations](http://www.ted.com/profiles/1352721/translations)
-*   **liveptt**: [http://liveptt.herokuapp.com](http://liveptt.herokuapp.com)
-    -  批踢踢網頁版行動App (開發中)
 
 ### Competition
 
