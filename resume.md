@@ -46,7 +46,7 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 ### Interests and Continued learning
 
 *   Robotics, Machine Learning, Open Data, Open Source, Computer Security
-*   Startup Engineering @[Coursera](https://www.coursera.org/), Software as a Service @[edX](https://www.edx.org/), 20+ courses completed @[CodeSchool](https://www.codeschool.com/)
+*   Startup Engineering @[Coursera](https://www.coursera.org/), Software as a Service @[edX](https://www.edx.org/), 20+ courses completed @[CodeSchool](https://www.codeschool.com/users/swem)
 
 
 Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/resume.pdf)
