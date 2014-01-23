@@ -5,7 +5,7 @@
 
 Chen-Han Hsiao (Stanley) 蕭辰翰
 
-Email: <R97922120@ntu.edu.tw>  
+Email: R97922120 at ntu.edu.tw  
 Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 
 ### Work Experience
