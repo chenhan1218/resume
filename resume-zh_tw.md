@@ -5,20 +5,16 @@
 
 Chen-Han Hsiao (Stanley) 蕭辰翰
 
-Email: <R97922120@ntu.edu.tw>
+Email: <R97922120@ntu.edu.tw>  
+Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 
 ### Work Experience
 
 *   **軟體工程師**, 微星科技,
     Nov. 2010 - Sep. 2013
-    - 建立高階吸塵器機器人的軟體架構，使消費型機器人具有精準室內定位、移動的能力。
+    - 建立高階吸塵器機器人的軟體架構，並設計定位演算法，使消費型機器人具有精準室內定位、移動的能力。
     - 實作客製化機器人軟體、人機互動介面
     - 進行實地測試並加強產品耐用度
-
-*   **教學助理**, 國立台灣大學
-    - 微積分甲, 2008 秋季 & 2009 春季
-    - 計算機程式設計, 2009 秋季
-        - 傑出助教獎
 
 ### Project
 
@@ -42,18 +38,13 @@ Email: <R97922120@ntu.edu.tw>
     學士，數學系, Aug 2004 - July 2008
 
 ### Skills
-*   演算法設計
-*   機器人軟體、工具開發
-*   產品耐用度分析
-*   實作工具: 
-    - C++, Eclipse + GNU Debugger, Matlab, Javascript, Python, Shell Script
-*   軟體服務: Amazon EC2, Heroku
-*   外語能力:
-    - 精通英語, TOEIC 945
+*   專精於以C/C++開發軟體。使用 Matlab, Python 及相關套件進行問題分析。使用 Rails + Heroku + Amazon Web Services 做網站雛形開發。
+*   精通英語, TOEIC 945
 
-### Interests
+### Interests and Continued learning
 
 *   Robotics, Machine Learning, Open Data, Open Source, Computer Security
+*   Startup Engineering @[Coursera](https://www.coursera.org/), Software as a Service @[edX](https://www.edx.org/), 20+ courses completed @[CodeSchool](https://www.codeschool.com/)
 
 
 Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/resume.pdf)

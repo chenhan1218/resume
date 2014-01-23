@@ -5,20 +5,16 @@
 
 Chen-Han Hsiao (Stanley) 蕭辰翰
 
-Email: <R97922120@ntu.edu.tw>
+Email: <R97922120@ntu.edu.tw>  
+Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 
 ### Work Experience
 
 *   **Software Engineer**, Micro-Star International Co., Ltd (MSI),
     Nov. 2010 - Sep. 2013
-    - Build software architecture for high-level vacuum robot. Made consumer vacuum robot being capable of localizing and navigating accurately in indoor environment. 
+    - Build software architecture for high-level vacuum robot. Design algorithms to made consumer vacuum robot being capable of localizing and navigating accurately in indoor environment. 
     - Implement customized Robot software and Human-Robot Interface.
-    - Complete field tests and Improving product reliability.
-
-*   **Teaching assistant**, National Taiwan University
-    - CALCULUS (GENERAL MATHEMATICS), Fall 2008 & Spring 2009
-    - Introduction to Computer Programming, Fall 2009
-        - Excellent TA Award
+    - Complete field tests and Improve product reliability.
 
 ### Project
 
@@ -42,19 +38,15 @@ Email: <R97922120@ntu.edu.tw>
     * B. S., Mathematics, Aug 2004 - July 2008
 
 ### Skills
-*   Design algorithms for Autonomous robot
-*   Develop software tools for robot and sensor applications
-*   Analysis product reliability.
-*   Programming tool: 
-    - C++, Eclipse + GNU Debugger, Matlab, Javascript, Python, Shell Script
-*   Software Services: Amazon EC2, Heroku
+*   Software Implementation with solid coding skills on C/C++. Problem analysis with Matlab and Python. Web service bootstrap with Rails + Heroku + Amazon Web Services.
 *   Language:
     * Chinese: Native
     * English: Full professional proficiency, TOEIC 945
 
-### Interests
+### Interests and Continued learning
 
 *   Robotics, Machine Learning, Open Data, Open Source, Computer Security
+*   Startup Engineering @[Coursera](https://www.coursera.org/), Software as a Service @[edX](https://www.edx.org/), 20+ courses completed @[CodeSchool](https://www.codeschool.com/)
 
 
 Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/resume.pdf)
