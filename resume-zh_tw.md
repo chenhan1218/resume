@@ -27,7 +27,7 @@ Email: <R97922120@ntu.edu.tw>
 
 ### Competition
 
-*   Facebook Hacker Cup 2013: Rank 1336
+*   Facebook Hacker Cup 2014: Rank 827
     - Facebook舉辦的國際程式競賽
 
 ### Publication
