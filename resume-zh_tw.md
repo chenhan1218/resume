@@ -16,6 +16,24 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
     - 實作客製化機器人軟體、人機互動介面
     - 進行實地測試並加強產品耐用度
 
+### Education
+
+*   國立台灣大學
+    碩士，資訊工程研究所, Aug 2008 - July 2010
+*   國立台灣大學
+    學士，數學系, Aug 2004 - July 2008
+
+### Skills
+
+*   **系統軟體開發：** 專精於以C/C++開發軟體。能使用開源工具對系統效能分析及除錯，如GNU debugger, Valgrind(尋找記憶體洩漏) and strace(追蹤系統呼叫、程序間通信、網路通信)
+*   **資料分析：** 使用 Matlab, Python 及相關開源套件進行問題分析。
+*   **線上軟體工程：** 使用 Rails + Heroku + Amazon Web Services 做網站雛形開發。具有Web負載平衡與Scaling基礎知識
+*   **外語溝通：** 精通英語, TOEIC 945
+
+### Publication
+
+*   **Chen-Han Hsiao** and Chieh-Chih Wang, Achieving undelayed initialization in monocular SLAM with generalized objects using velocity estimate-based classification, Robotics and Automation (ICRA), 2011 IEEE International Conference on , vol., no., pp.4060,4066, 9-13 May 2011.
+
 ### Project
 
 *   **TED 開放翻譯計劃** 2012-至今
@@ -26,27 +44,10 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 *   Facebook Hacker Cup 2014: Rank 827
     - Facebook舉辦的國際程式競賽
 
-### Publication
-
-*   **Chen-Han Hsiao** and Chieh-Chih Wang, Achieving undelayed initialization in monocular SLAM with generalized objects using velocity estimate-based classification, Robotics and Automation (ICRA), 2011 IEEE International Conference on , vol., no., pp.4060,4066, 9-13 May 2011.
-
-### Education
-
-*   國立台灣大學
-    碩士，資訊工程研究所, Aug 2008 - July 2010
-*   國立台灣大學
-    學士，數學系, Aug 2004 - July 2008
-
-### Skills
-*   專精於以C/C++開發軟體。使用 Matlab, Python 及相關套件進行問題分析。使用 Rails + Heroku + Amazon Web Services 做網站雛形開發。
-*   精通英語, TOEIC 945
-
 ### Interests and Continued learning
 
 *   Robotics, Machine Learning, Open Data, Open Source, Computer Security
 *   Startup Engineering @[Coursera](https://www.coursera.org/), Software as a Service @[edX](https://www.edx.org/), 20+ courses completed @[CodeSchool](https://www.codeschool.com/users/swem)
 
-
-Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/resume.pdf)
-
+Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/resume.pdf)  
 中文履歷: [http://swem.github.io/resume/resume-zh_tw.html](http://swem.github.io/resume/resume-zh_tw.html) [[PDF]](https://raw.github.com/swem/resume/master/resume-zh_tw.pdf)
