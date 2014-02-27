@@ -1,12 +1,12 @@
 ## Resumé
 
 
-<img src="photo.jpg" alt="photo" style="width: 150px;"/>
-
 Chen-Han Hsiao (Stanley) 蕭辰翰
 
 Email: R97922120 at ntu.edu.tw  
 Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
+
+---------------------------------------
 
 ### Work Experience
 
@@ -22,6 +22,8 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
     * M. S., Computer Science and Information Engineering, Aug 2008 - July 2010
 *   National Taiwan University, Taipei, Taiwan
     * B. S., Mathematics, Aug 2004 - July 2008
+
+---------------------------------------
 
 ### Skills
 
@@ -48,6 +50,8 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 
 *   Robotics, Machine Learning, Open Data, Open Source, Computer Security
 *   Startup Engineering @[Coursera](https://www.coursera.org/), Software as a Service @[edX](https://www.edx.org/), 20+ courses completed @[CodeSchool](https://www.codeschool.com/users/swem)
+
+---------------------------------------
 
 Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/resume.pdf)  
 中文履歷: [http://swem.github.io/resume/resume-zh_tw.html](http://swem.github.io/resume/resume-zh_tw.html) [[PDF]](https://raw.github.com/swem/resume/master/resume-zh_tw.pdf)
