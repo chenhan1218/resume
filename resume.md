@@ -13,8 +13,9 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 *   **Software Engineer**, Micro-Star International Co., Ltd (MSI),
     Nov. 2010 - Sep. 2013
     - Build software architecture for high-end vacuum robot. Design algorithms to made consumer vacuum robot being capable of localizing and navigating accurately in indoor environment.
-    - Implement customized Robot software and Human-Robot Interface.
-    - Complete field tests and Improve product reliability.
+    - Implement customized Robot software and Human-Robot Interface on linux-based embedded platform.
+    - Inventing cross-platform software suite for autonomous robot field tests and Improve product reliability.
+    - Introduce tools including Git version control flow, project management with Redmine to our team, which helps team communication and progress tracking. Also host seminars in department to encourage everyone learn new technique and share knowledge with each other.
 
 ### Education
 
@@ -40,10 +41,7 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 
 *   **TED Open Translation Project**. 2012-present
     -  Translate about 20 video subtitles from English to Chinese. Completed translation: [http://www.ted.com/profiles/1352721/translations](http://www.ted.com/profiles/1352721/translations)
-
-### Competition
-
-*   Facebook Hacker Cup 2014: Rank 827
+*   **Facebook Hacker Cup 2014**: Rank 827
     - International programming competition hosted and administered by Facebook.
 
 ### Interests and Continued learning

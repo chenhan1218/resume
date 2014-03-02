@@ -13,8 +13,9 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 *   **軟體工程師**, 微星科技,
     Nov. 2010 - Sep. 2013
     - 建立高階吸塵器機器人的軟體架構，並設計定位演算法，使消費型機器人具有精準室內定位、移動的能力。
-    - 實作客製化機器人軟體、人機互動介面
-    - 進行實地測試並加強產品耐用度
+    - 在 Linux 嵌入式平台上實作客製化機器人軟體、人機互動介面
+    - 打造實地測試所使用的軟體並加強產品耐用度
+    - 為團隊導入Git flow開發流程及Redmine專案管理，增進工程團隊與專案管理者之間的溝通效率。並且主持部門內研討會來鼓勵知識交流。
 
 ### Education
 
@@ -38,10 +39,7 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 
 *   **TED 開放翻譯計劃** 2012-至今
     -  協助將 20 場演講的英文字幕翻譯為中文字幕。完成列表: [http://www.ted.com/profiles/1352721/translations](http://www.ted.com/profiles/1352721/translations)
-
-### Competition
-
-*   Facebook Hacker Cup 2014: Rank 827
+*   **Facebook Hacker Cup 2014**: Rank 827
     - Facebook舉辦的國際程式競賽
 
 ### Interests and Continued learning
