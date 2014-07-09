@@ -69,5 +69,5 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 
 ---------------------------------------
 
-Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/resume.pdf)  
-中文履歷: [http://swem.github.io/resume/resume-zh_tw.html](http://swem.github.io/resume/resume-zh_tw.html) [[PDF]](https://raw.github.com/swem/resume/master/resume-zh_tw.pdf)
+Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://raw.github.com/swem/resume/master/ChenHanHsiao-resume.pdf)  
+中文履歷: [http://swem.github.io/resume/resume-zh_tw.html](http://swem.github.io/resume/resume-zh_tw.html) [[PDF]](https://raw.github.com/swem/resume/master/ChenHanHsiao-resume-zh_tw.pdf)
