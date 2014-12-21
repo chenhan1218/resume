@@ -12,8 +12,8 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 
 *   **Product Developer**, Synology Inc.,
     Apr. 2014 - current
-    - Develop DiskStation Manager including user interface, Web API and SDK functions.
-    - Survey new features and maintain existing software packages.
+    - Develop Network Attached Storage operating system and release major update pack on a regular basis, twice a year. Implement interactive web-based user interface, Web API and SDK functions. Increase usability for customers to access and share documents.
+    - Port and maintain software packages under Synology package framework and apply security patches to increase system stability.
     - Write internal tech documents and Provide technique support to customers.
 
 *   **Stuff**, COSCUP team,
@@ -22,14 +22,13 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 
 *   **Contributor**, g0v community,
     2013 - current
-    - Contribute in several software projects in g0v community which devote to embrace information transparency.
+    - Contribute in software projects in g0v community which devote to embrace information transparency.
 
 *   **Software Engineer**, Micro-Star International Co., Ltd (MSI),
     Nov. 2010 - Sep. 2013
-    - Build software architecture for high-end vacuum robot. Design algorithms to made consumer vacuum robot being capable of localizing and navigating <!---accurately--> in indoor environment.
-    - Implement customized Robot software and Human-Robot Interface on linux-based embedded platform.
-    - Inventing cross-platform software suite for autonomous robot field tests and Improve product reliability.
-    - Introduce tools including Git version control flow, project management with Redmine to our team, which helps team communication and progress tracking. Also host seminars in department to encourage everyone learn new technique and share knowledge with each other.
+    - Build software architecture for high-end vacuum robot. Design and fine-tune algorithms to made consumer-level vacuum robot being capable of localizing and navigating <!---accurately in indoor environment-->.
+    - Implement customized Robot software and Human-Robot Interface on linux-based embedded platform. Also, inventing cross-platform software suite for autonomous robot field tests and Improve product reliability.
+    - Introduce tools including Git version control flow, project management with Redmine to our team, which helps team communication and progress tracking. Also host seminars in department to encourage everyone learn new technique and share knowledge.
 
 ### Education
 
@@ -42,16 +41,16 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 
 ### Skills
 
-*   **System Programming :** Software implementation with solid coding skills on C/C++. System analysis and debugging with open-source tools such as GNU debugger, Valgrind(Find memory Leaks) and strace(Trace system call & IPC & network)
+*   **System Programming :** Software implementation with solid coding skills on C/C++. System diagnosis and debugging with varius open-source tools such as GNU debugger, Valgrind and strace.
 <!---
 *   **Data analysis :** Using Matlab and Python (With open-source numeric and scientific package) to finding useful information for scientific and business usage.
 -->
-*   **Web Engineering:** Web service bootstrap with Rails + Heroku + Amazon Web Services. Basic knowledge on web load-balancing and scaling.
+*   **Web Engineering:** Web service bootstrap with Rails + Heroku + Amazon Web Services. <!---Basic knowledge on web load-balancing and scaling.-->
 *   **Language :** English: Full professional proficiency, TOEIC 945
 
 ### Publication
 
-*   **Chen-Han Hsiao** and Chieh-Chih Wang, Achieving undelayed initialization in monocular SLAM with generalized objects using velocity estimate-based classification, Robotics and Automation (ICRA), 2011 IEEE International Conference on , vol., no., pp.4060,4066, 9-13 May 2011.
+*   **Chen-Han Hsiao** and Chieh-Chih Wang, Achieving undelayed initialization in monocular SLAM with generalized objects using velocity estimate-based classification, Robotics and Automation (ICRA), 2011 IEEE International Conference on , pp.4060,4066, 9-13 May 2011.
 
 ### Project
 
@@ -60,7 +59,7 @@ Tech blog: [http://swem.logdown.com](http://swem.logdown.com)
 *   **Hangouts Clock!**
 	- A open source extension for Google Hangouts. Let user add timer on live stream when broadcasting on Google Hangouts. [http://swem.github.io/hangouts-clock/](http://swem.github.io/hangouts-clock/)
 *   **Facebook Hacker Cup 2014**: Rank 827
-    - International programming competition hosted and administered by Facebook.
+    - International algorithmic programming competition hosted by Facebook.
 
 ### Interests and Continued learning
 
