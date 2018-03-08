@@ -4,7 +4,7 @@
 Chen-Han Hsiao (Stanley) 蕭辰翰
 
 Email: chenhan.hsiao.tw at gmail.com  
-Tech blog: [https://swem.github.io](https://swem.github.io)
+Tech blog: [https://chenhan1218.github.io](https://chenhan1218.github.io)
 
 ---------------------------------------
 
@@ -47,4 +47,4 @@ Tech blog: [https://swem.github.io](https://swem.github.io)
 
 ---------------------------------------
 
-Resume: [http://swem.github.io/resume](http://swem.github.io/resume) [[PDF]](https://github.com/swem/resume/raw/master/ChenHanHsiao-resume.pdf)
+Resume: [http://chenhan1218.github.io/resume](http://chenhan1218.github.io/resume) [[PDF]](https://github.com/chenhan1218/resume/raw/master/ChenHanHsiao-resume.pdf)
