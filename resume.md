@@ -10,7 +10,7 @@ Tech blog: [https://chenhan1218.github.io](https://chenhan1218.github.io)
 
 ### Work Experience
 *   **Software Engineer**, Canonical Ltd.
-    Feb. 2015 - current
+    Feb. 2015 - Jul. 2018
     - Work on Ubuntu preload project. Resolve Ubuntu Linux preloaded issues across userspace stacks. Ensure Long-Term-Support Ubuntu works on Ubuntu Certified hardware out-of-box and deliver essential software online updates.
     - Develop Ubuntu Core which focus on security, reliable updates and certified apps from open ecosystem. Deliver Ubuntu Core Operating system and snap packages on Dell IOT Gateway, Intel Joule Developer board and Intel Euclid Development Kit. Collaborate with commercial partners to improve factory installation of Ubuntu.
     - Build and maintain infrastructure for internal image building. Improve software building process by leverage third-party Continuous Integration services. Provide consultation to project engineers on best practices development.
@@ -38,7 +38,7 @@ Tech blog: [https://chenhan1218.github.io](https://chenhan1218.github.io)
 
 ### Skills
 
-*   7 years in software development. Experienced in large-scale open source, collaboration with cross-border colleagues and partners.
+*   8 years in software development. Experienced in large-scale open source, collaboration with cross-border colleagues and partners.
 *   Proficient in System diagnosis and debugging with various open-source tools, especially on Ubuntu/Debian software stack.
 
 ### Publication
