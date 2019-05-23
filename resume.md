@@ -4,28 +4,30 @@
 Chen-Han Hsiao (Stanley) 蕭辰翰
 
 Email: chenhan.hsiao.tw at gmail.com  
-Tech blog: [https://chenhan1218.github.io](https://chenhan1218.github.io)
 
 ---------------------------------------
 
 ### Work Experience
-*   **Software Engineer**, Canonical Ltd.
+*   **Software Developer**, Freelancer
+    Aug. 2018 - Now
+    - Build and design infrastructure and software with Continuous Integration/Delivery methodology on top of Amazon Web Services (AWS) cloud. Leverage S3/EC2/CodeBuild/EFS/IAM/SSM/ECS to facilitate the team collaboration.
+    - Deploy team development environments with kubernetes/helm. Adapt Cloud Native and Infrastructure as code concept into the software development team.
+
+*   **Software Engineer**, Canonical Ltd. Customer Engineering.
     Feb. 2015 - Jul. 2018
-    - Work on Ubuntu preload project. Resolve Ubuntu Linux preloaded issues across userspace stacks. Ensure Long-Term-Support Ubuntu works on Ubuntu Certified hardware out-of-box and deliver essential software online updates.
-    - Develop Ubuntu Core which focus on security, reliable updates and certified apps from open ecosystem. Deliver Ubuntu Core Operating system and snap packages on Dell IOT Gateway, Intel Joule Developer board and Intel Euclid Development Kit. Collaborate with commercial partners to improve factory installation of Ubuntu.
-    - Build and maintain infrastructure for internal image building. Improve software building process by leverage third-party Continuous Integration services. Provide consultation to project engineers on best practices development.
+    - Help customers succeed with Ubuntu. Work on Ubuntu preload project. Resolve Ubuntu Linux preloaded issues across userspace stacks. Ensure Long-Term-Support Ubuntu works on Ubuntu Certified hardware out-of-box and deliver essential software online updates.
+    - Develop Ubuntu Core which focus on security, reliable updates and trust-able apps on open ecosystem. Deliver Ubuntu Core Operating system and snap packages on Dell IOT Gateway, Intel Joule Developer board and Intel Euclid Development Kit. Collaborate with commercial partners to improve factory installation of Ubuntu.
+    - Build and maintain infrastructure for internal image building. Improve software building process by leverage third-party Continuous Integration services.
 
 *   **Product Developer**, Synology Inc.,
     Apr. 2014 - Jan. 2015
-    - Develop Network Attached Storage operating system and release major update pack on a regular basis, twice a year. Implement interactive web-based user interface, Web API and SDK functions. Increase usability for customers to access and share documents.
-    - Port and maintain software packages under Synology package framework and apply security patches to increase system stability.
+    - Develop Network Attached Storage (NAS) operating system and release major update pack on a regular basis, twice a year. Implement interactive web-based user interface, Web API and SDK functions. Increase usability for customers to access and share documents.
+    - Build software packages with Synology package framework and apply security patches regularly to enhance system security and stability.
     - Provide technical support and consultation to end-customers.
 
 *   **Software Engineer**, Micro-Star International Co., Ltd (MSI),
     Nov. 2010 - Sep. 2013
-    - Build software architecture for high-end vacuum robot. Design and fine-tune algorithms to made consumer-level vacuum robot being capable of localizing and navigating.
-    - Implement customized Robot software and Human-Robot Interface on linux-based embedded platform. Also, inventing cross-platform software suite for autonomous robot field tests and Improve product reliability.
-    - Setup internal coding work flow and infrastructure. Provide project management software such as Redmine, which helps team communication and progress tracking. Also host technical seminars and encourage everyone learn new technique and share knowledge.
+    - Build customized Robot software and Human-Robot Interface on linux-based embedded platform with cross-platform software suite for autonomous robot field tests.
 
 ### Education
 
@@ -38,8 +40,9 @@ Tech blog: [https://chenhan1218.github.io](https://chenhan1218.github.io)
 
 ### Skills
 
-*   8 years in software development. Experienced in large-scale open source, collaboration with cross-border colleagues and partners.
-*   Proficient in System diagnosis and debugging with various open-source tools, especially on Ubuntu/Debian software stack.
+*   - 9 years in software development. Experienced in large-scale open source, collaboration with cross-border colleagues and partners.
+*   - Proficient in System diagnosis and debugging with various open-source tools, especially on Ubuntu/Debian software stack.
+*   - Learner and practitioners for open-source, artificial intelligence and data engineering.
 
 ### Publication
 
@@ -47,4 +50,4 @@ Tech blog: [https://chenhan1218.github.io](https://chenhan1218.github.io)
 
 ---------------------------------------
 
-Resume: [http://chenhan1218.github.io/resume](http://chenhan1218.github.io/resume) [[PDF]](https://github.com/chenhan1218/resume/raw/master/ChenHanHsiao-resume.pdf)
+Resume: [https://chenhan1218.github.io/resume](https://chenhan1218.github.io/resume) [[PDF]](https://github.com/chenhan1218/resume/raw/master/ChenHanHsiao-resume.pdf)
