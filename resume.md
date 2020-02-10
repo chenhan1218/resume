@@ -10,8 +10,8 @@ Email: chenhan.hsiao.tw at gmail.com
 ### Work Experience
 *   **Software Developer**, Freelancer
     Aug. 2018 - Now
-    - Build and design infrastructure and software with Continuous Integration/Delivery methodology on top of Amazon Web Services (AWS) cloud. Leverage S3/EC2/CodeBuild/EFS/IAM/SSM/ECS to facilitate the team collaboration.
-    - Data analyze/engineering with Mozilla Taipei Business Intelligence team on telemetry data with Million users. Provide daily/weekly/monthly key metrics and dashboard including Product Retention, Engagements, Click-Through Rate, Conversion Rate and Return-On-Investment to Product Manager/Designer/Marketing/Engineer team. Help team to keep on a data-driven and experiment-driven practice. Leverage technology stacks including Google Bigquery, SQL, Cloud Storage, Airflow, Kubernetes, Redash visualization and Dataprep.
+    - Build and design infrastructure and software with Continuous Integration/Delivery methodology on top of Amazon Web Services (AWS) cloud. Leverage S3 / EC2 / CodeBuild / EFS / IAM / SSM / ECS to facilitate the team collaboration.
+    - Data analyze / engineering with Mozilla Taipei Business Intelligence team on telemetry data with Million users. Provide daily / weekly / monthly key metrics and dashboard including Product Retention, Engagements, Click-Through Rate, Conversion Rate and Return-On-Investment to Product Manager / Designer / Marketing / Engineer team. Help team to keep on a data-driven and experiment-driven practice. Leverage technology stacks including Google Bigquery, SQL, Cloud Storage, Airflow, Kubernetes, Redash visualization and Dataprep.
 
 *   **Software Engineer**, Canonical Ltd. Customer Engineering.
     Feb. 2015 - Jul. 2018
