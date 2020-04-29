@@ -3,7 +3,8 @@
 
 Chen-Han Hsiao (Stanley) 蕭辰翰
 
-Email: chenhan.hsiao.tw at gmail.com  
+Email: chenhan.hsiao.tw@gmail.com  
+Linkedin: https://www.linkedin.com/in/chen-han-hsiao-2b486049/  
 
 ---------------------------------------
 
@@ -50,4 +51,4 @@ Email: chenhan.hsiao.tw at gmail.com
 
 ---------------------------------------
 
-Resume: [https://chenhan1218.github.io/resume](https://chenhan1218.github.io/resume) [[PDF]](https://github.com/chenhan1218/resume/raw/master/ChenHanHsiao-resume.pdf)
+[comment]: <> (Resume: [https://chenhan1218.github.io/resume](https://chenhan1218.github.io/resume) [[PDF]](https://github.com/chenhan1218/resume/raw/master/ChenHanHsiao-resume.pdf))
