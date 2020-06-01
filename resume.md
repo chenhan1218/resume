@@ -4,7 +4,7 @@
 Chen-Han Hsiao (Stanley) 蕭辰翰
 
 Email: chenhan.hsiao.tw@gmail.com  
-Linkedin: https://www.linkedin.com/in/chen-han-hsiao-2b486049/  
+Linkedin: [https://www.linkedin.com/in/chen-han-hsiao-2b486049/](https://www.linkedin.com/in/chen-han-hsiao-2b486049/)  
 
 ---------------------------------------
 
