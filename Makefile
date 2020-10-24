@@ -9,7 +9,7 @@ pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md
-	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
+	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -s -t html -c resume.css -o $@
 	cp -f resume.html index.html
 	google-chrome --headless --print-to-pdf="ChenHanHsiao-resume.pdf" index.html
 

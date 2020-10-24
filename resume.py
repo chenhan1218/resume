@@ -91,9 +91,10 @@ def tex(lines, contact_lines, *args):
     # just going to hardcode the two most common link formats for now so people
     # can put links in their contact info
     def replace_links(line):
-        line = re.sub(r"<([^:]+@[^:]+?)>", r"\href{mailto:\1}{\1}", line)
-        line = re.sub(r"<(http.+?)>", r"\url{\1}", line)
-        return re.sub(r"\[([^\]]+)\]\(([^\)]+)\)", r"\href{\2}{\1}", line)
+        line = re.sub(r"<([^:]+@[^:]+?)>", r"\\href{mailto:\1}{\1}", line)
+        line = re.sub(r"<(http.+?)>", r"\\url{\1}", line)
+        line = re.sub(r"<(https.+?)>", r"\\url{\1}", line)
+        return re.sub(r"\[([^\]]+)\]\(([^\)]+)\)", r"\\href{\2}{\1}", line)
 
     contact_lines = "\n\n".join(map(replace_links, contact_lines))
 
@@ -110,7 +111,7 @@ def tex(lines, contact_lines, *args):
     for c in escape:
         contact_lines = sub(r'([^\\])\%s' % c, r'\1\%s' % c, contact_lines)
 
-    lines.insert(0, "\\begin{nospace}\\begin{flushright}\n" +
+    lines.insert(0, "\\begin{nospace}\\begin{flushright}\n\\vspace{-2em}" +
                     contact_lines +
                     "\n\\end{flushright}\\end{nospace}\n")
 
@@ -124,14 +125,14 @@ def html(lines, contact_lines, *args):
     for word in untex:
         # yuck
         replace = lambda l: l.replace(r"\%s" % word, word)
-        lines = map(replace, lines)
-        contact_lines = map(replace, contact_lines)
+        lines = list(map(replace, lines))
+        contact_lines = list(map(replace, contact_lines))
 
     gravatar = None
     for line in contact_lines:
         if '@' in line and '--no-gravatar' not in args:
             gravatar = GRAVATAR.format(
-                hash=hashlib.md5(line.lower().strip('<>')).hexdigest())
+                hash=hashlib.md5(line.lower().strip('<>').encode('utf-8')).hexdigest())
             break
     if gravatar is not None:
         contact_lines.insert(0, "<img src='{}' />".format(gravatar))
@@ -166,7 +167,7 @@ def main():
 
         contact_lines.extend(parts)
 
-    print processor.process(format, lines, contact_lines, *sys.argv[1:])
+    print(processor.process(format, lines, contact_lines, *sys.argv[1:]))
 
 if __name__ == '__main__':
     main()
